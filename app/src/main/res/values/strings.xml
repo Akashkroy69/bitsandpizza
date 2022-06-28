@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bits And Pizza</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sauces">Sauces</string>
+    <string name="cheese">Cheese</string>
+    <string name="extras">Extras</string>
+    <string name="farmhouse">Farmhouse</string>
+    <string name="margaretta">Margaretta</string>
+    <string name="which_type_of_pizza_would_you_like">Which type of pizza would you like?</string>
+    <string name="pizza_image">pizza image</string>
+    <string name="fab">FAB</string>
+</resources>
